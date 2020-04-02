@@ -16,7 +16,7 @@ This is only going to work if you have a fairly new computer. According to the [
 
   So far, we have tested only with macOS 10.13 \(High Sierra\) and 10.14 \(Mojave\).
 
-## 1. Install Lando and Docker
+## 1. Install Lando and Docker NEED DDEV version of this
 
 Watch the [Step-by-step video tutorial](https://www.dropbox.com/s/pa7mdlung83cdri/cbd-local-setup.mp4?dl=0) to setup your local dev environment.  If you want to do it on your own, follow the steps below.
 
